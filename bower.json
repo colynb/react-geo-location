@@ -1,0 +1,29 @@
+{
+  "name": "react-geo-location",
+  "version": "0.0.0",
+  "description": "React Geo Location",
+  "main": "dist/react-geo-location.min.js",
+  "homepage": "https://github.com/colynb/react-geo-location",
+  "authors": [
+    "Colyn Brown"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
